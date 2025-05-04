@@ -1,6 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';  // Use Link to navigate between pages
-
+import { Link } from 'react-router-dom';  
 const Navbar = () => {
   return (
     <nav className="bg-blue-800 p-4 text-yellow-300">
